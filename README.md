@@ -20,7 +20,7 @@
 - 👩‍💻 Currently diving deeper into **JavaScript, APIs & React**  
 - 🎨 I love designing in **Figma** and bringing it to life with code  
 - ✨ My goal? Build things that make people say: *"WOW!"*  
-- 📬 Email me: `laiba@example.com`
+- 📬 Email me: `laibasadique2004@gmail.com`
 
 ---
 
