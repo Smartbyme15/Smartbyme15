@@ -24,13 +24,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,figma,vscode,github" />
-</p>
-
----
 
 ### 💫 Featured Projects (Click to Explore!)
 
